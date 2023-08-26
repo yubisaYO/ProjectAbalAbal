@@ -1,0 +1,1 @@
+this is the exercise i did when i in Binus University, i tried to learn more about html, css at the first time but i want it to make it more dynamically so i start learn the javascript. There are somke project i have done to learn it more deeply
